@@ -7,3 +7,4 @@ El main esta en la clase Solitario, que esta en la carpeta Solitario,el Solitari
 
 He cambiado las imágenes del juego
 Por Luis
+He hecho otro Fork
